@@ -1,0 +1,8 @@
+# HaloPSA API
+HALO_BASE_URL=
+HALO_CLIENT_ID=
+HALO_CLIENT_SECRET=
+HALO_SCOPE=all
+
+# If you expose to the browser
+NEXT_PUBLIC_HALO_BASE_URL=
